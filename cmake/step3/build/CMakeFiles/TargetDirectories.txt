@@ -1,0 +1,7 @@
+/code/step3/build/CMakeFiles/Tutorial.dir
+/code/step3/build/CMakeFiles/edit_cache.dir
+/code/step3/build/CMakeFiles/rebuild_cache.dir
+/code/step3/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/code/step3/build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/code/step3/build/MathFunctions/CMakeFiles/edit_cache.dir
+/code/step3/build/MathFunctions/CMakeFiles/rebuild_cache.dir
