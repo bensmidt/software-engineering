@@ -34,3 +34,6 @@
 ## MLOps
 - [Building Machine Learning Pipelines (2020)](https://drive.google.com/file/d/145Bv4tM1mrnJ4x8aA4UrXE00Nsnv7r_w/view?usp=drive_link)
 - [Designing Machine Learning Systems (2022)](https://drive.google.com/file/d/1vHwQdQeqLPOd5by29iB8Y8ybq7pWCT44/view?usp=drive_link)
+
+## Cyber Security
+- [OAuth 2.0 Token Exchange](https://datatracker.ietf.org/doc/html/rfc8693)
