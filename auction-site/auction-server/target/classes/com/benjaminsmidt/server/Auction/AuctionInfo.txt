@@ -1,4 +1,0 @@
-"Laptop" 1 "For making an Auction website"
-"Basketball" 2 "Steph Curry's Basketball"
-"Honda Accord" 3 "Ben's OG Honda Accord"
-"Backpack" 4 "The NorthFace of course"
